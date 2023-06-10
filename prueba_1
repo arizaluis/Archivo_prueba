@@ -1,0 +1,2 @@
+clear all; clc: 
+print('Esto es una prueba')
